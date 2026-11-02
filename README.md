@@ -4,11 +4,13 @@ A python script that will download songs from youtube playlists
 YouTube Music Downloader (GUI) -> 320 kbps MP3 with cover art + tags.
 
 Setup:
+
     pip install -U yt-dlp
     Install ffmpeg (winget install ffmpeg / brew install ffmpeg / apt install ffmpeg)
     Linux only: sudo apt install python3-tk
 
 Run:
+
     python ytm.py
 
 
